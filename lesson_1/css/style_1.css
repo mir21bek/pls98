@@ -1,0 +1,17 @@
+body {
+    color: black;
+}
+
+h3 {
+    color: azure;
+    background: red;
+}
+
+p {
+   background: aqua;
+}
+
+div.body {
+    color: saddlebrown;
+    background-color: greenyellow
+}
