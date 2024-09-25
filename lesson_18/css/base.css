@@ -1,0 +1,20 @@
+.lists {
+    display: grid;
+    grid-template-columns: repeat(4, 300px);
+    justify-content: space-between;
+    gap: 10px;
+}
+.posts {
+    background: seagreen;
+    padding: 20px;
+}
+.heading {
+    display: flex;
+    justify-content: space-between;
+}
+.heading h3 {
+    margin: 0;
+}
+.img {
+    width: 100%;
+}
